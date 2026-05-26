@@ -30,3 +30,7 @@ Los árboles se construyeron a partir del siguiente **banco de nodos**:
 | `N` | Nombre |
 | `P` | Preposición |
 | `V` | Verbo |
+
+---
+
+**Certificados:** Se adjuntan los dos certificados de finalización emitidos por la plataforma [Syntactic Tree Structures in Spanish](https://elearning.cpp.edu/learning-objects/syntactic-tree-structures-spanish/?page=options.html) al completar las actividades.
